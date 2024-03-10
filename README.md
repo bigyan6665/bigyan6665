@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I'm Bigyan</h1>
 <h3 align="center">A passionate developer and learner</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/89bdbc06ccef55ae214bf3616fa16b2af801c30e2afb3846aeeee36d9c0b1d18/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34322f33362f64302f34323336643030623664663331633563316461623335363666613631666633632e676966](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)">
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyan6665&label=Profile%20views&color=0e75b6&style=flat" alt="bigyan6665" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bigyan shrestha" target="blank"><img src="https://img.shields.io/twitter/follow/bigyan shrestha?logo=twitter&style=for-the-badge" alt="bigyan shrestha" /></a> </p>
