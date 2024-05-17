@@ -23,7 +23,7 @@
  <img src="https://img.shields.io/badge/C++-007ACC"/>
  <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Javascript-007ACC?style=flat&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigyan6665&show_icons=true&locale=en&layout=compact" alt="bigyan6665" /></p>
