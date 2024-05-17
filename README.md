@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bigyan shrestha" target="blank"><img src="https://img.shields.io/twitter/follow/bigyan shrestha?logo=twitter&style=for-the-badge" alt="bigyan shrestha" /></a> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **javascript**
 
 - 💬 Ask me about **c,c++**
 
