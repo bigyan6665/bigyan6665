@@ -26,6 +26,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <img src="[![Facebook Badge](https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/bigyan.stha.1234)"/>
+<img src="[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/12299287/cryptocode)"/>
 <img src="https://img.shields.io/badge/-twitter-2a2d30?style=flat&logo=X&logoColor=white">
 <img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </p>
