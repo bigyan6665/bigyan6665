@@ -29,5 +29,9 @@
 <img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white?link=[https://example.com](https://www.facebook.com/bigyan.stha.1234?mibextid=ZbWKwL)"/>
 <img src="https://img.shields.io/badge/-twitter-2a2d30?style=flat&logo=X&logoColor=white">
 <img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+
+  <a href="https://twitter.com/bigyan shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bigyan shrestha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bigyan shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bigyan shrestha" height="30" width="40" /></a>
+<a href="https://fb.com/bigyan shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bigyan shrestha" height="30" width="40" /></a>
 </p>
 
