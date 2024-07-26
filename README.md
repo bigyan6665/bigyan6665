@@ -20,3 +20,10 @@
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=88dded"/>
 </p>
+
+---
+
+<h4 align="left">Connect with me:</h4>
+<img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
+<img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
