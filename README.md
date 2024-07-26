@@ -1,6 +1,9 @@
 ### Hey👋, I'm Bigyan
+
 ---
+
 <h3 align="left">About me:</h3>
+
 - 🌱 I’m currently learning javascript
 
 - 💬 Ask me about any software related stuffs
