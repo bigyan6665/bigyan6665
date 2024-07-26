@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white"/>
