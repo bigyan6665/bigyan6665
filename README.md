@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="left">About me:</h3>
+<h4 align="left">About me:</h4>
 
 - 🌱 I’m currently learning javascript
 
