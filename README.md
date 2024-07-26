@@ -1,7 +1,7 @@
 <h1 align="left">Hey👋, I'm Bigyan</h1>
 
 ---
-
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning javascript
 
 - 💬 Ask me about any software related stuffs
