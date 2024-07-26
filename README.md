@@ -25,5 +25,5 @@
 
 <h4 align="left">Connect with me:</h4>
 <img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/-twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
 <img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
