@@ -27,6 +27,6 @@
 <p align="left">
 <a href="https://www.facebook.com/bigyan.stha.1234?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 <a href="https://x.com/BigyanSth?t=yuBZwuR20Z7WNTalBuyxrw&s=09"><img src="https://img.shields.io/badge/-Twitter-2a2d30?style=flat&logo=X&logoColor=white"/></a>
-<a href="https://x.com/BigyanSth?t=yuBZwuR20Z7WNTalBuyxrw&s=09"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bigyan-shrestha-962655266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
