@@ -1,5 +1,3 @@
-### Hey👋, I'm Bigyan
-
 ---
 
 <img src="https://github.com/bigyan6665/bigyan6665/blob/main/githubbanner2.png"/>
