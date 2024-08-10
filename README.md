@@ -1,6 +1,6 @@
 ---
 
-<img src="https://github.com/bigyan6665/bigyan6665/blob/main/githubbanner2.png"/>
+<img src="https://github.com/bigyan6665/bigyan6665/blob/main/githubbanner.png"/>
 <h4 align="left">About me:</h4>
 
 - 🌱 I’m currently learning javascript
