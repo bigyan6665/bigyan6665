@@ -3,11 +3,13 @@
 <img src="https://github.com/bigyan6665/bigyan6665/blob/main/githubbanner.png"/>
 <h4 align="left">About me:</h4>
 
-- 🌱 I’m currently learning javascript and react
+- I’m currently learning javascript and react
 
-- 💬 Ask me about any software related stuffs
+- I'm interested in learning mern stack,mobile app development
 
-- 📫 How to reach me bigyans04@gmail.com
+- Ask me about any software related stuffs
+
+- How to reach me bigyans04@gmail.com
 
 ---
 
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=88dded"/>
   <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github-3c3c3c?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
