@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-3c3c3c?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-python-4584b6?style=flat&logo=python&logoColor=white"/>
+  ![Java](https://res.cloudinary.com/dyfou5lvz/image/upload/v1740962061/download_bxxvfj.jpg) 
 </p>
 
 ---
