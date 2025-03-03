@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Github-3c3c3c?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-python-4584b6?style=flat&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-python-4584b6?style=flat&logo=python&logoColor=white"/>
-  <img width="80px" height="20px" src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg"/>
+  <img width="60px" height="20px" src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg"/>
 </p>
 
 ---
