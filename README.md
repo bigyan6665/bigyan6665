@@ -14,17 +14,23 @@
 ---
 
 <h4 align="left">Languages and Tools:</h4>
-<p align="left">
+<div align="left">
+  <div>    
   <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tailwindcss-06b6d4?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=88dded"/>
+  </div>
+  <div>
   <img src="https://img.shields.io/badge/-Python-4584b6?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-red?style=flat"/>
+  </div>
+  <div>  
   <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-3c3c3c?style=flat&logo=github&logoColor=white"/>
-</p>
+  </div>
+</div>
 
 ---
 
