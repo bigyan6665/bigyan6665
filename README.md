@@ -24,6 +24,7 @@
   </div>
   <div>
   <img src="https://img.shields.io/badge/-Python-4584b6?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Java-red?style=flat"/>
   </div>
   <div>  
