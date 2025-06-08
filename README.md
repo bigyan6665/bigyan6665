@@ -15,18 +15,16 @@
 
 <h4 align="left">Languages and Tools:</h4>
 <div align="left">
-  <div>    
-  <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tailwindcss-06b6d4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-1c2c4c?style=flat&logo=react&logoColor=88dded"/>
-  </div>
   <div>
   <img src="https://img.shields.io/badge/-Python-4584b6?style=flat&logo=python&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/-django-092E20?style=flat&logo=django&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Java-red?style=flat"/>
+<!--   <img src="https://img.shields.io/badge/-numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-pandas-yellow?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-scipy-1A1F70?style=flat&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-matplotlib-4d4d4d?style=flat"/>
+  <img src="https://img.shields.io/badge/-seaborn-3792cb?style=flat"/>
+  <img src="https://img.shields.io/badge/-streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-fastapi-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-tableau-4e4e56?style=flat"/> -->
   </div>
   <div>  
   <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"/>
