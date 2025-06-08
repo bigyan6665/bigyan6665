@@ -6,8 +6,10 @@ I'm a passionate web developer currently in the learning phase.
 <h3 align="left">Languages and Tools🛠️</h3>
 <div>
   
-- Languages : HTML, CSS, Javascript, Python, SQL
-- Frameworks & libraries : Bootstrap, Tailwindcss, React
+- Languages : HTML, CSS, Javascript, Java, Python
+- Frameworks & libraries : Tailwindcss, React
+- Databases : SQL
+- UI/UX : Figma
 </div>
 
 <h3 align="left">Education🎓</h3>
