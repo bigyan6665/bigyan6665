@@ -19,9 +19,20 @@ I'm a passionate web developer currently in the learning phase.
 -
 
 <h3 align="left">Connect with me📫</h3>
-<p align="left">
-<a href="https://www.facebook.com/bigyan.stha.1234?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-<a href="https://x.com/BigyanSth?t=yuBZwuR20Z7WNTalBuyxrw&s=09"><img src="https://img.shields.io/badge/-Twitter-2a2d30?style=flat&logo=X&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bigyan-shrestha-962655266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
+<div>
+<span>Facebook : </span>
+<a href="https://www.facebook.com/bigyan.stha.1234?mibextid=ZbWKwL">bigyan.stha.1234</a>
+</div>
+<div>
+<span>Twitter : </span>
+  <a href="https://x.com/BigyanSth?t=yuBZwuR20Z7WNTalBuyxrw&s=09">BigyanSth</a>
+</div>
+<div>
+<span>Linkedin : </span>
+<a href="https://www.linkedin.com/in/bigyan-shrestha-962655266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">bigyanstha</a>
+</div>
+<div>
+<span>Email : </span>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bigyans04@example.com" target="_blank">bigyans04@gmail.com</a>
+</div>
 
