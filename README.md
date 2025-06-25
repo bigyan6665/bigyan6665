@@ -14,7 +14,7 @@ I'm a passionate web developer currently in the learning phase.
 
 <h3 align="left">Education🎓</h3>
 
-- Bachelor of Information Technology, KIST college&ss
+- Bachelor of Information Technology(2022-2026), KIST college&ss
 
 <h3 align="left">Certifications📜</h3>
 
