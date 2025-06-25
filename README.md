@@ -9,6 +9,7 @@ I'm a passionate web developer currently in the learning phase.
 - Languages : HTML, CSS, Javascript, Java, Python
 - Frameworks & libraries : Tailwindcss, React
 - Databases : SQL
+- Tools : Git, Github, DBeaver
 - UI/UX : Figma
 </div>
 
