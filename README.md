@@ -1,16 +1,15 @@
 <h1 align="left"> 👋 Hello, I'm Bigyan </h1>
-<h2>🚀 MERN stack developer.</h2>
+<h2>🚀 Data Scientist.</h2>
 <h3 align="left">About me🙋‍♂️</h3>
-I'm a passionate web developer currently in the learning phase.
+Passionate Data Scientist turning raw data into meaningful insights and intelligent solutions through the power of Python, machine learning, and analytics.
 
 <h3 align="left">Languages and Tools🛠️</h3>
 <div>
   
-- Languages : HTML, CSS, Javascript, Java, Python
-- Frameworks & libraries : Tailwindcss, React
+- Languages : Python
+- Frameworks & libraries : Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit, FastAPI
 - Databases : SQL
 - Tools : Git, Github, DBeaver
-- UI/UX : Figma
 </div>
 
 <h3 align="left">Education🎓</h3>
