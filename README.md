@@ -1,7 +1,7 @@
 <h1 align="left"> 👋 Hello, I'm Bigyan </h1>
-<h2>🚀 Data Scientist.</h2>
+<h2>🚀 Data Science,AI/ML enthusiast.</h2>
 <h3 align="left">About me🙋‍♂️</h3>
-Passionate Data Scientist turning raw data into meaningful insights and intelligent solutions through the power of Python, machine learning, and analytics.
+Passionate to build intelligent solutions through the power of Python, machine learning, and analytics.
 
 <h3 align="left">Languages and Tools🛠️</h3>
 <div>
