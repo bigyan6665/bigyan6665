@@ -18,7 +18,7 @@ Passionate to build intelligent solutions through the power of Python, machine l
 
 <h3 align="left">Certifications📜</h3>
 
--
+- Data Science With Python, Broadway Infosys
 
 <h3 align="left">Connect with me📫</h3>
 <div>
