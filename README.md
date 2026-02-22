@@ -1,13 +1,13 @@
 <h1 align="left"> 👋 Hello, I'm Bigyan </h1>
-<h2>🚀 Pythob backend, AI engineer, Data science enthusiast</h2>
+<h2>🚀  Python backend and AI engineer, Data science enthusiast</h2>
 <h3 align="left">About me🙋‍♂️</h3>
-Passionate to build intelligent solutions through the power of Python, machine learning, and analytics.
+Passionate to build intelligent solutions through the power of Python, machine learning, and AI.
 
 <h3 align="left">Languages and Tools🛠️</h3>
 <div>
   
 - Languages : Python
-- Frameworks & libraries : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit, FastAPI
+- Frameworks & libraries : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit, FastAPI, langchain
 - Databases : SQL, Redis, Pinecone
 - Tools : Git, Github, Tableau
 </div>
